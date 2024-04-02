@@ -6,3 +6,4 @@ requests
 collection
 openpyxl
 ipython
+xlsxwriter
