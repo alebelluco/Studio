@@ -7,4 +7,4 @@ collection
 openpyxl
 ipython
 xlsxwriter
-pickle
+
